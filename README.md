@@ -1,8 +1,7 @@
-Assalamualaikum dan Hi Semua! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hakim
-=============================================================================================================================
+# Assalamualaikum dan Hi Semua! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hakim
 
-Full Stack Developer
---------------------
+## Full Stack Developer
+
 
 * 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at [My Website](http://programmingmy.github.io)
@@ -30,7 +29,7 @@ Full Stack Developer
 <td><a href="https://www.youtube.com/watch?v=naX1LIq9MtA">JavaScript Tutorial Asas 7 - Object</a><br/>Sep 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LbMkPpZnTUw"><img width="140px" src="http://img.youtube.com/vi/LbMkPpZnTUw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LbMkPpZnTUw">JavaScript Tutorial Asas 6 - Array</a><br/>Sep 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PlZC-AmK4DY"><img width="140px" src="http://img.youtube.com/vi/PlZC-AmK4DY/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=PlZC-AmK4DY"><img width="140px" src="http://img.youtube.com/vi/LbMkPpZnTUw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PlZC-AmK4DY">JavaScript Tutorial Asas 5 - Function</a><br/>Sep 12, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
