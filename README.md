@@ -21,7 +21,9 @@
 <p align="left"> <a href="https://www.github.com/programmingmy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@programmingmy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 ### My Latest Youtube Video
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=vxXPwcdKsZA"><img width="140px" src="http://img.youtube.com/vi/vxXPwcdKsZA/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=dymYNdPnpCA"><img width="140px" src="http://img.youtube.com/vi/dymYNdPnpCA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dymYNdPnpCA">JavaScript Class Untuk Mudah Faham</a><br/>Oct 8, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=vxXPwcdKsZA"><img width="140px" src="http://img.youtube.com/vi/vxXPwcdKsZA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vxXPwcdKsZA">JavaScript Tutorial Asas 8 - DOM</a><br/>Oct 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=MHjkwvUW8LE"><img width="140px" src="http://img.youtube.com/vi/MHjkwvUW8LE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MHjkwvUW8LE">Jangan guna &quot;var&quot; dalam JavaScript #programming #coding #javascripttutorial</a><br/>Oct 1, 2024</td></tr></table>
@@ -29,8 +31,6 @@
 <td><a href="https://www.youtube.com/watch?v=naX1LIq9MtA">JavaScript Tutorial Asas 7 - Object</a><br/>Sep 26, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LbMkPpZnTUw"><img width="140px" src="http://img.youtube.com/vi/LbMkPpZnTUw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LbMkPpZnTUw">JavaScript Tutorial Asas 6 - Array</a><br/>Sep 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PlZC-AmK4DY"><img width="140px" src="http://img.youtube.com/vi/PlZC-AmK4DY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PlZC-AmK4DY">JavaScript Tutorial Asas 5 - Function</a><br/>Sep 12, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 
