@@ -5,7 +5,6 @@
 
 * 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at [My Website](http://programmingmy.github.io)
-* 🧠  I'm learning Game Dev with Godot Engine
 
 ### Skills
 
