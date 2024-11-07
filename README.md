@@ -20,7 +20,9 @@
 <p align="left"> <a href="https://www.github.com/programmingmy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@programmingmy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 ### My Latest Youtube Video
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=e4yxp-DvyL0"><img width="140px" src="http://img.youtube.com/vi/e4yxp-DvyL0/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=1UBWJ7ubVvw"><img width="140px" src="http://img.youtube.com/vi/1UBWJ7ubVvw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1UBWJ7ubVvw">Form Validation Menggunakan JavaScript</a><br/>Nov 7, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=e4yxp-DvyL0"><img width="140px" src="http://img.youtube.com/vi/e4yxp-DvyL0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e4yxp-DvyL0">Tips JavaScript untuk Professional</a><br/>Oct 31, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=V6gGM0iFq-A"><img width="140px" src="http://img.youtube.com/vi/V6gGM0iFq-A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V6gGM0iFq-A">Apa itu API? #coding #api#javascripttutorial #programming #programminglanguage #malaysia #it</a><br/>Oct 24, 2024</td></tr></table>
@@ -28,8 +30,6 @@
 <td><a href="https://www.youtube.com/watch?v=gnzww7TjSCo">JavaScript Fetch API dalam 8 Minit</a><br/>Oct 24, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=QmEnKR0I2dw"><img width="140px" src="http://img.youtube.com/vi/QmEnKR0I2dw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QmEnKR0I2dw">JavaScript Tutorial Asas 10 - Error Handling</a><br/>Oct 17, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=zXRURYbBma0"><img width="140px" src="http://img.youtube.com/vi/zXRURYbBma0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zXRURYbBma0">JavaScript Tutorial Asas 9 - Asynchronous</a><br/>Oct 10, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 
