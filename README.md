@@ -26,10 +26,10 @@
 <td><a href="https://www.youtube.com/watch?v=OkAsyLxpCqE">Cara Nak Mudah Faham CSS Flexbox</a><br/>Nov 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XsSepHM2FoA"><img width="140px" src="http://img.youtube.com/vi/XsSepHM2FoA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XsSepHM2FoA">JavaScript Array Method Yang Korang Kena Tahu</a><br/>Nov 15, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=QD2K2LnXouM"><img width="140px" src="http://img.youtube.com/vi/QD2K2LnXouM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QD2K2LnXouM">Beza Spread dan Rest operator dalam #javascript #coding #programming #malaysia #javascripttutorial</a><br/>Nov 13, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NDJZJWyx2fM"><img width="140px" src="http://img.youtube.com/vi/NDJZJWyx2fM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NDJZJWyx2fM">Pass value antara dua function  #coding #programming #python #malaysia #tutorial</a><br/>Nov 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/QD2K2LnXouM"><img width="140px" src="http://img.youtube.com/vi/QD2K2LnXouM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/QD2K2LnXouM">Beza Spread dan Rest operator dalam #javascript #coding #programming #malaysia #javascripttutorial</a><br/>Nov 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/NDJZJWyx2fM"><img width="140px" src="http://img.youtube.com/vi/NDJZJWyx2fM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/NDJZJWyx2fM">Pass value antara dua function  #coding #programming #python #malaysia #tutorial</a><br/>Nov 12, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 
