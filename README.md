@@ -1,4 +1,4 @@
-# Assalamualaikum! My name is Hakim
+# Assalamualaikum! My name is Loqman Aripin
 
 ## Full Stack Developer
 
